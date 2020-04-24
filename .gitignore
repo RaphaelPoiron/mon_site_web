@@ -1,5 +1,4 @@
-tmp/todo.txt
-Tmp/*
+tmp/*
 .DS_Store
 *.xml
 *.txt
