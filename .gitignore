@@ -1,6 +1,5 @@
 tmp/todo.txt
 tmp/*
 .DS_Store
-*.xml
 *.txt
 
